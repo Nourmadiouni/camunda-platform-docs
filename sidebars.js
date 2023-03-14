@@ -183,6 +183,7 @@ module.exports = {
                 "components/modeler/bpmn/script-tasks/script-tasks",
                 "components/modeler/bpmn/send-tasks/send-tasks",
                 "components/modeler/bpmn/manual-tasks/manual-tasks",
+                "components/modeler/bpmn/undefined-tasks/undefined-tasks",
               ],
             },
             {
